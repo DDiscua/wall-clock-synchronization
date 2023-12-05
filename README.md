@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 `npm run dev`
 
+![image](https://github.com/DDiscua/wall-clock-synchronization/assets/31171755/5e16e3b2-8ec4-4b2d-b7cd-f3bd2da88537)
 
 
 ## Expanding the ESLint configuration
