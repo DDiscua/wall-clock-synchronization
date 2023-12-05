@@ -1,0 +1,18 @@
+.wall-watch {
+  width: 100%;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+svg {
+  background: white;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+
+.clock {
+  width: 50vw;
+  height: 50vw;
+}
